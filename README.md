@@ -1,5 +1,5 @@
 ![badge](https://img.shields.io/badge/MADE%20WITH-HTML,%20CSS%20&%20JS-blue)
-![badge](https://img.shields.io/badge/TIME%20TAKEN-2%20to%203%20hrs-red)
+![badge](https://img.shields.io/badge/TIME%20TAKEN-4%20to%205%20hrs-red)
 [![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)](https://js-06rockpaperscissor-project.netlify.app/)
 
 # JavaScript Rock Paper Scissor
@@ -8,7 +8,7 @@
 
 - I have also added gifs for win and lose.
 
-- It took me 2-3 hrs to make this project.
+- It took me 4-5 hrs to make this project.
 
   [![badge](https://img.shields.io/badge/LINK%20OF-PROJECT-green)](https://js-06rockpaperscissor-project.netlify.app/)
 
